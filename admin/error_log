@@ -1,0 +1,322 @@
+[01-Apr-2021 23:56:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[05-Apr-2021 05:50:34 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[07-Apr-2021 07:15:29 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[08-Apr-2021 01:12:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[08-Apr-2021 04:13:53 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[08-Apr-2021 05:44:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[08-Apr-2021 05:44:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'websheba'@'localhost' (using password: YES) in /home/websrayn/califomed.us/admin/databases.php on line 7
+[08-Apr-2021 05:46:51 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[08-Apr-2021 05:46:51 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[08-Apr-2021 05:46:51 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/menu.php on line 4
+[08-Apr-2021 05:50:49 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[08-Apr-2021 05:50:49 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[08-Apr-2021 05:50:49 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:30:30 America/New_York] PHP Notice:  Undefined index: user in /home/websrayn/califomed.us/admin/header.php on line 165
+[10-Apr-2021 04:30:30 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:30:30 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:30:30 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:30:30 America/New_York] PHP Notice:  Undefined index: ulevel in /home/websrayn/califomed.us/admin/sideber.php on line 5
+[10-Apr-2021 04:30:30 America/New_York] PHP Notice:  Undefined variable: menuquery in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[10-Apr-2021 04:30:30 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[10-Apr-2021 04:30:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/sideber.php on line 20
+[10-Apr-2021 04:47:13 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:47:13 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:47:13 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:48:16 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:48:16 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:48:16 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:02 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:07 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:07 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:07 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:27 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:27 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:27 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:49:45 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:45 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:49:45 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:50:04 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:50:04 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:50:04 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:50:23 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:50:23 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:50:23 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 04:52:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:52:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:52:34 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:52:46 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:52:46 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:52:46 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:53:16 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:53:16 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:53:16 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:53:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:53:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:53:26 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:53:30 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:53:30 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:53:30 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:53:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 04:54:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:54:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:54:19 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:54:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:54:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:54:31 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 04:54:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 04:56:13 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:56:13 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:56:13 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 04:56:45 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:56:45 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 04:56:45 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 05:02:25 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 05:02:25 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 05:02:25 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 05:02:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 06:46:56 America/New_York] PHP Notice:  Undefined index: user in /home/websrayn/califomed.us/admin/header.php on line 165
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 06:46:56 America/New_York] PHP Notice:  Undefined index: ulevel in /home/websrayn/califomed.us/admin/sideber.php on line 5
+[10-Apr-2021 06:46:56 America/New_York] PHP Notice:  Undefined variable: menuquery in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/sideber.php on line 20
+[10-Apr-2021 06:46:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 07:04:36 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 07:04:36 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 07:04:36 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/menu.php on line 4
+[10-Apr-2021 07:07:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:07:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:07:32 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:09:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:09:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:09:37 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:09:51 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:09:51 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:09:51 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:09:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 07:09:55 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:09:55 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:09:55 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:11:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:11:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:11:37 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[10-Apr-2021 07:27:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:27:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:27:31 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[10-Apr-2021 07:41:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:41:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:41:02 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[10-Apr-2021 07:41:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[10-Apr-2021 07:42:21 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[10-Apr-2021 07:42:21 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[10-Apr-2021 07:42:21 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[11-Apr-2021 00:02:32 America/New_York] PHP Notice:  Undefined index: user in /home/websrayn/califomed.us/admin/header.php on line 165
+[11-Apr-2021 00:02:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[11-Apr-2021 00:02:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[11-Apr-2021 00:02:32 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product_info.php on line 4
+[11-Apr-2021 00:02:32 America/New_York] PHP Notice:  Undefined index: ulevel in /home/websrayn/califomed.us/admin/sideber.php on line 5
+[11-Apr-2021 00:02:32 America/New_York] PHP Notice:  Undefined variable: menuquery in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[11-Apr-2021 00:02:32 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/websrayn/califomed.us/admin/sideber.php on line 16
+[11-Apr-2021 00:02:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/sideber.php on line 20
+[21-Oct-2021 01:50:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[21-Oct-2021 01:50:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[21-Oct-2021 01:50:29 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[21-Oct-2021 01:51:18 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[21-Oct-2021 01:51:18 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/animal.php on line 4
+[21-Oct-2021 01:51:18 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/animal.php on line 4
+[21-Oct-2021 01:51:27 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 01:51:27 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 01:51:27 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 01:51:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[21-Oct-2021 02:25:47 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:25:47 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:25:47 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:25:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[21-Oct-2021 02:40:43 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:40:43 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:40:43 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/product.php on line 4
+[21-Oct-2021 02:40:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/admin/product.php on line 145
+[21-Oct-2021 02:40:55 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[21-Oct-2021 02:40:55 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/admin/category.php on line 4
+[21-Oct-2021 02:40:55 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/admin/category.php on line 4
+[14-Nov-2021 01:30:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:30:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:30:39 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:35:01 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:35:01 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:35:01 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:35:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[14-Nov-2021 01:35:18 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:35:18 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:35:18 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/animal.php on line 4
+[14-Nov-2021 01:41:06 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:41:06 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:41:06 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[14-Nov-2021 01:41:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[14-Nov-2021 03:12:21 America/New_York] PHP Notice:  Undefined index: user in /home/websrayn/califomed.us/new/admin/header.php on line 165
+[14-Nov-2021 03:12:21 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[14-Nov-2021 03:12:21 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[14-Nov-2021 03:12:21 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[14-Nov-2021 03:12:21 America/New_York] PHP Notice:  Undefined index: ulevel in /home/websrayn/califomed.us/new/admin/sideber.php on line 5
+[14-Nov-2021 03:12:21 America/New_York] PHP Notice:  Undefined variable: menuquery in /home/websrayn/califomed.us/new/admin/sideber.php on line 16
+[14-Nov-2021 03:12:21 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/websrayn/califomed.us/new/admin/sideber.php on line 16
+[14-Nov-2021 03:12:21 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/sideber.php on line 20
+[21-Feb-2022 07:27:41 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:27:41 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:27:41 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:28:06 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:06 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:06 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:28:11 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:28:11 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:28:11 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:28:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:19 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:28:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:28:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:28:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:28:29 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product_info.php on line 4
+[21-Feb-2022 07:48:17 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:17 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:17 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:31 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:31 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:34 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:34 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:36 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:36 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:36 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:39 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:41 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:41 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:41 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:44 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:44 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:44 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:48:47 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:47 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:47 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:48:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:02 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:05 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:05 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:05 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:08 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:08 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:08 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:08 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:10 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:10 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:10 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:12 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:12 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:12 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:12 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:14 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:14 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:14 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:17 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:17 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:17 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:19 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:19 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:22 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:22 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:22 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:24 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:24 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:24 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:26 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:29 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:29 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:32 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:34 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:34 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:34 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:37 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:37 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:39 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:39 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/product.php on line 4
+[21-Feb-2022 07:49:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/websrayn/califomed.us/new/admin/product.php on line 145
+[21-Feb-2022 07:49:43 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:49:43 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:49:43 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:00 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:00 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:00 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:02 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:02 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:03 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:03 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:03 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:04 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:04 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:04 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:08 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:08 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:08 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:32 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:32 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:50 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:50 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:51:50 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:00 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:00 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:00 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:11 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:11 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:11 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:38 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:38 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:52:38 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:26 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:26 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:35 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:35 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:35 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:48 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:48 America/New_York] PHP Warning:  include(checkLogin.php): failed to open stream: No such file or directory in /home/websrayn/califomed.us/new/admin/category.php on line 4
+[21-Feb-2022 07:55:48 America/New_York] PHP Warning:  include(): Failed opening 'checkLogin.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/websrayn/califomed.us/new/admin/category.php on line 4
